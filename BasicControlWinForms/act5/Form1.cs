@@ -41,7 +41,7 @@ namespace act5
             {
                 val2 = checkBox2.Text + ", ";
             }
-            if (checkBox1.Checked == true)
+            if (checkBox3.Checked == true)
             {
                 val3 = checkBox3.Text + ", ";
             }
